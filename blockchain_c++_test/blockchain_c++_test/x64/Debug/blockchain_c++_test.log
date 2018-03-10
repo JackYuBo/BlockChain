@@ -1,0 +1,11 @@
+﻿  main.cpp
+d:\blockchain\blockchain_c++_test\blockchain_c++_test\sha256.h(34): warning C4838: 从“unsigned int”转换到“long”需要收缩转换
+d:\blockchain\blockchain_c++_test\blockchain_c++_test\sha256.h(35): warning C4244: “=”: 从“__int64”转换到“long”，可能丢失数据
+d:\blockchain\blockchain_c++_test\blockchain_c++_test\sha256.h(38): warning C4309: “=”: 截断常量值
+d:\blockchain\blockchain_c++_test\blockchain_c++_test\sha256.h(39): warning C4244: “=”: 从“__int64”转换到“long”，可能丢失数据
+d:\blockchain\blockchain_c++_test\blockchain_c++_test\sha256.h(40): warning C4244: “=”: 从“__int64”转换到“long”，可能丢失数据
+d:\blockchain\blockchain_c++_test\blockchain_c++_test\sha256.h(74): warning C4838: 从“unsigned int”转换到“long”需要收缩转换
+d:\blockchain\blockchain_c++_test\blockchain_c++_test\sha256.h(87): warning C4309: “=”: 截断常量值
+d:\blockchain\blockchain_c++_test\blockchain_c++_test\sha256.h(88): warning C4244: “=”: 从“__int64”转换到“long”，可能丢失数据
+d:\blockchain\blockchain_c++_test\blockchain_c++_test\sha256.h(89): warning C4244: “=”: 从“__int64”转换到“long”，可能丢失数据
+  blockchain_c++_test.vcxproj -> D:\BLOCKCHAIN\blockchain_c++_test\x64\Debug\blockchain_c++_test.exe
